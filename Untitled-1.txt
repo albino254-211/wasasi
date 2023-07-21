@@ -1,9 +1,0 @@
-<span class="material-icons">
-        search
-            </span>
-            <span class="material-icons">
-                mic
-                </span>
-                <span class="material-icons">
-                    center_focus_strong
-                    </span>
